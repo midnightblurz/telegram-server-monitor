@@ -1,0 +1,16 @@
+{
+  "name": "telegram-server-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bot": "BOTe_TOKEN=752219856:AAHoFWMtKIGdGRYgBUsP1X_1Ji1HyLgRA8Y node index"
+  },
+  "author": "Midnight Blur",
+  "license": "ISC",
+  "dependencies": {
+    "systeminformation": "^4.22.5",
+    "telegraf": "^3.36.0"
+  }
+}
