@@ -6,7 +6,6 @@ if (process.env.BOT_TOKEN === undefined) {
     console.log('\x1b[31m%s\x1b[0m', 'Bot token environment variable isn\'t defined');
     return;
 }
-git
 // console.log(sys.getAllData());
 
 console.log(process.env.BOT_TOKEN);
