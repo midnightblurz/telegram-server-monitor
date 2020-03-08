@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const sys = require('systeminformation');
 const Telegraf = require('telegraf');
 
