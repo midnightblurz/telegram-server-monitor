@@ -2,7 +2,7 @@
 
 <p align="center">
     <img align="left" width="400px" src="https://github.com/midnightblurz/telegram-server-monitor/raw/master/static/images/1.jpg">
-    <img align="right" width="400px"  src="https://github.com/midnightblurz/telegram-server-monitor/raw/master/static/images/3.jpg">
+    <img align="right" width="400px"  src="https://github.com/midnightblurz/telegram-server-monitor/raw/master/static/images/2.jpg">
 </p>
 
 <p align="center">
