@@ -87,7 +87,7 @@ bot.command('network', (ctx) => {
 });
 
 
-bot.command('services', (ctx) => {
+bot.command('io', (ctx) => {
 
     sys.disksIO()
         .then(data => {
