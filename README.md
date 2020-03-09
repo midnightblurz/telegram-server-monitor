@@ -5,8 +5,7 @@
     <img align="right" width="300px" src="https://github.com/midnightblurz/telegram-server-monitor/raw/master/static/images/2.jpg">
     <img align="right" width="300px"  src="https://github.com/midnightblurz/telegram-server-monitor/raw/master/static/images/3.jpg">
 </p>
-<p align="center">
-</p>
+
 
 
 **Monitor your server using Telegram's Bot API**
