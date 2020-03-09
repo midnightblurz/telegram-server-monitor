@@ -7,7 +7,7 @@ class Bot {
     reply(ctx, message) {
 
         if (this.isAllowed(ctx)) {
-            ctx.reply(message);
+            ctx.replyWithMarkdown(message);
         }
     }
 
@@ -19,6 +19,8 @@ class Bot {
     }
 
     isAllowed(ctx) {
+        if (ctx.message.chat.id === undefined) return false;
+
         return process.env.ALLOWED_IDENTIFIERS.split(',').includes(ctx.message.chat.id.toString());
     }
 
