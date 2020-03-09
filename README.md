@@ -1,6 +1,11 @@
 # **Telegram server monitor**
 
+<p align="center">
+
 ![Telegram server monitor](static/images/1.jpg)![Telegram server monitor](static/images/2.jpg)![Telegram server monitor](static/images/3.jpg)
+
+</p>
+
 
 **Monitor your server using Telegram's Bot API**
 
