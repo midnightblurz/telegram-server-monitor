@@ -2,14 +2,15 @@
 
 **Monitor your server using Telegram's Bot API**
 
-![Telegram chat](url)![Telegram chat](url)![Telegram chat](url)
-####**Installation:**
+![Telegram chat](static/images/1.jpg)![Telegram chat](static/images/2.jpg)![Telegram chat](static/images/3.jpg)
+
+##Installation:
 Clone the repository, ```cd``` into it and run :
 ```shell script
  npm install
 ```
 
-####**Getting started**:
+##Getting started:
 Rename ```.env.example``` to ```.env```
 
 Replace ```BOT_TOKEN``` value to your bot token. For security reasons there is the ```ALLOWED_IDENTIFIERS``` 
