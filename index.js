@@ -22,6 +22,7 @@ const bot = new Telegraf(process.env.BOT_TOKEN);
 const responder = new Bot(bot);
 
 //Commands
+
 bot.command('my_id', (ctx) => {
     ctx.reply(`Welcome! Your ID is : ${ctx.message.chat.id}`);
 });
@@ -59,7 +60,6 @@ bot.command('os', (ctx) => {
 
     sys.osInfo()
         .then(data => {
-
             responder.objectReply(ctx, data);
         })
         .catch(error => responder.reply(error));
@@ -71,7 +71,6 @@ bot.command('users', (ctx) => {
 
     sys.users()
         .then(data => {
-
             responder.objectReply(ctx, data);
         })
         .catch(error => responder.reply(error));
@@ -81,13 +80,11 @@ bot.command('network', (ctx) => {
 
     sys.networkStats()
         .then(data => {
-
             responder.objectReply(ctx, data);
         })
         .catch(error => responder.reply(error));
 });
 
-// console.log(sys);
 
 bot.launch();
 
