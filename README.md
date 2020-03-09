@@ -1,9 +1,13 @@
 # **Telegram server monitor**
 
 <p align="center">
-
-![Telegram server monitor](static/images/1.jpg)![Telegram server monitor](static/images/2.jpg)![Telegram server monitor](static/images/3.jpg)
-
+    <img width="400px" src="https://github.com/midnightblurz/telegram-server-monitor/raw/master/static/images/1.jpg">
+</p>
+<p align="center">
+    <img width="400px" src="https://github.com/midnightblurz/telegram-server-monitor/raw/master/static/images/2.jpg">
+</p>
+<p align="center">
+    <img width="400px"  src="https://github.com/midnightblurz/telegram-server-monitor/raw/master/static/images/3.jpg">
 </p>
 
 
