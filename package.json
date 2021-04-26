@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "systeminformation": "^4.22.5",
+    "systeminformation": "^5.6.4",
     "table": "^5.4.6",
     "telegraf": "^3.36.0"
   }
